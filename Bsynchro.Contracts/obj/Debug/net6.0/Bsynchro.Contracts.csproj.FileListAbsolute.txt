@@ -1,0 +1,15 @@
+C:\Users\dibem\source\repos\Bsynchro.Solution\Bsynchro.Contracts\bin\Debug\net6.0\Bsynchro.Contracts.deps.json
+C:\Users\dibem\source\repos\Bsynchro.Solution\Bsynchro.Contracts\bin\Debug\net6.0\Bsynchro.Contracts.dll
+C:\Users\dibem\source\repos\Bsynchro.Solution\Bsynchro.Contracts\bin\Debug\net6.0\Bsynchro.Contracts.pdb
+C:\Users\dibem\source\repos\Bsynchro.Solution\Bsynchro.Contracts\bin\Debug\net6.0\Bsynchro.Domain.dll
+C:\Users\dibem\source\repos\Bsynchro.Solution\Bsynchro.Contracts\bin\Debug\net6.0\Bsynchro.Domain.pdb
+C:\Users\dibem\source\repos\Bsynchro.Solution\Bsynchro.Contracts\obj\Debug\net6.0\Bsynchro.Contracts.csproj.AssemblyReference.cache
+C:\Users\dibem\source\repos\Bsynchro.Solution\Bsynchro.Contracts\obj\Debug\net6.0\Bsynchro.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dibem\source\repos\Bsynchro.Solution\Bsynchro.Contracts\obj\Debug\net6.0\Bsynchro.Contracts.AssemblyInfoInputs.cache
+C:\Users\dibem\source\repos\Bsynchro.Solution\Bsynchro.Contracts\obj\Debug\net6.0\Bsynchro.Contracts.AssemblyInfo.cs
+C:\Users\dibem\source\repos\Bsynchro.Solution\Bsynchro.Contracts\obj\Debug\net6.0\Bsynchro.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\dibem\source\repos\Bsynchro.Solution\Bsynchro.Contracts\obj\Debug\net6.0\Bsynchro.Contracts.csproj.CopyComplete
+C:\Users\dibem\source\repos\Bsynchro.Solution\Bsynchro.Contracts\obj\Debug\net6.0\Bsynchro.Contracts.dll
+C:\Users\dibem\source\repos\Bsynchro.Solution\Bsynchro.Contracts\obj\Debug\net6.0\refint\Bsynchro.Contracts.dll
+C:\Users\dibem\source\repos\Bsynchro.Solution\Bsynchro.Contracts\obj\Debug\net6.0\Bsynchro.Contracts.pdb
+C:\Users\dibem\source\repos\Bsynchro.Solution\Bsynchro.Contracts\obj\Debug\net6.0\ref\Bsynchro.Contracts.dll

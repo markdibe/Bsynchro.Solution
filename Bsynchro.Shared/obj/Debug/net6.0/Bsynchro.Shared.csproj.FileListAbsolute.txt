@@ -1,0 +1,12 @@
+C:\Users\dibem\source\repos\Bsynchro.Solution\Bsynchro.Shared\bin\Debug\net6.0\Bsynchro.Shared.deps.json
+C:\Users\dibem\source\repos\Bsynchro.Solution\Bsynchro.Shared\bin\Debug\net6.0\Bsynchro.Shared.dll
+C:\Users\dibem\source\repos\Bsynchro.Solution\Bsynchro.Shared\bin\Debug\net6.0\Bsynchro.Shared.pdb
+C:\Users\dibem\source\repos\Bsynchro.Solution\Bsynchro.Shared\obj\Debug\net6.0\Bsynchro.Shared.csproj.AssemblyReference.cache
+C:\Users\dibem\source\repos\Bsynchro.Solution\Bsynchro.Shared\obj\Debug\net6.0\Bsynchro.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dibem\source\repos\Bsynchro.Solution\Bsynchro.Shared\obj\Debug\net6.0\Bsynchro.Shared.AssemblyInfoInputs.cache
+C:\Users\dibem\source\repos\Bsynchro.Solution\Bsynchro.Shared\obj\Debug\net6.0\Bsynchro.Shared.AssemblyInfo.cs
+C:\Users\dibem\source\repos\Bsynchro.Solution\Bsynchro.Shared\obj\Debug\net6.0\Bsynchro.Shared.csproj.CoreCompileInputs.cache
+C:\Users\dibem\source\repos\Bsynchro.Solution\Bsynchro.Shared\obj\Debug\net6.0\Bsynchro.Shared.dll
+C:\Users\dibem\source\repos\Bsynchro.Solution\Bsynchro.Shared\obj\Debug\net6.0\refint\Bsynchro.Shared.dll
+C:\Users\dibem\source\repos\Bsynchro.Solution\Bsynchro.Shared\obj\Debug\net6.0\Bsynchro.Shared.pdb
+C:\Users\dibem\source\repos\Bsynchro.Solution\Bsynchro.Shared\obj\Debug\net6.0\ref\Bsynchro.Shared.dll

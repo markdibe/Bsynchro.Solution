@@ -1,0 +1,122 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\dibem\\source\\repos\\Bsynchro.Solution\\Bsynchro.Contracts\\Bsynchro.Contracts.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\dibem\\source\\repos\\Bsynchro.Solution\\Bsynchro.Contracts\\Bsynchro.Contracts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\dibem\\source\\repos\\Bsynchro.Solution\\Bsynchro.Contracts\\Bsynchro.Contracts.csproj",
+        "projectName": "Bsynchro.Contracts",
+        "projectPath": "C:\\Users\\dibem\\source\\repos\\Bsynchro.Solution\\Bsynchro.Contracts\\Bsynchro.Contracts.csproj",
+        "packagesPath": "C:\\Users\\dibem\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\dibem\\source\\repos\\Bsynchro.Solution\\Bsynchro.Contracts\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\dibem\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\dibem\\source\\repos\\Bsynchro.Solution\\Bsynchro.Domain\\Bsynchro.Domain.csproj": {
+                "projectPath": "C:\\Users\\dibem\\source\\repos\\Bsynchro.Solution\\Bsynchro.Domain\\Bsynchro.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\dibem\\source\\repos\\Bsynchro.Solution\\Bsynchro.Domain\\Bsynchro.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\dibem\\source\\repos\\Bsynchro.Solution\\Bsynchro.Domain\\Bsynchro.Domain.csproj",
+        "projectName": "Bsynchro.Domain",
+        "projectPath": "C:\\Users\\dibem\\source\\repos\\Bsynchro.Solution\\Bsynchro.Domain\\Bsynchro.Domain.csproj",
+        "packagesPath": "C:\\Users\\dibem\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\dibem\\source\\repos\\Bsynchro.Solution\\Bsynchro.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\dibem\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
