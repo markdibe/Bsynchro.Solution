@@ -51,6 +51,8 @@ namespace Bsynchro.Application.Services
                                select new AccountInfoBO
                                {
                                    AccountNumber = accounts.AccountNumber,
+                                   FirstName= accounts.FirstName,
+                                   LastName= accounts.LastName,
                                    TransactionInfos = accounts.Transactions
                                    .Where(x=>x.AccountId.Equals(accounts.AccountId))
                                    .Select(x=>new Contracts.BO.Transactions.TransactionInfoBO { Amount = x.Amount, TransactionTime = x.TransactionTime})
